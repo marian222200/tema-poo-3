@@ -1,0 +1,60 @@
+# depslib dependency file v1.0
+1590164777 source:c:\users\user\desktop\tema poo 3\main.cpp
+	<iostream>
+	"Expozitie_Supersport.h"
+
+1590153018 c:\users\user\desktop\tema poo 3\include\masina.h
+	<iostream>
+	<cstring>
+
+1590153147 source:c:\users\user\desktop\tema poo 3\src\masina.cpp
+	"Masina.h"
+
+1590161248 source:c:\users\user\desktop\tema poo 3\src\expozitie.cpp
+	"Expozitie.h"
+
+1590161260 c:\users\user\desktop\tema poo 3\include\expozitie.h
+	"Masina.h"
+	"Supersport.h"
+	"Hot_Hatch.h"
+	"Coupe.h"
+	"Cabrio.h"
+	<typeinfo>
+
+1590150494 source:c:\users\user\desktop\tema poo 3\src\cabrio.cpp
+	"Cabrio.h"
+
+1590150494 c:\users\user\desktop\tema poo 3\include\cabrio.h
+	"Masina.h"
+
+1590150494 source:c:\users\user\desktop\tema poo 3\src\coupe.cpp
+	"Coupe.h"
+
+1590150494 c:\users\user\desktop\tema poo 3\include\coupe.h
+	"Masina.h"
+
+1590150494 source:c:\users\user\desktop\tema poo 3\src\hot_hatch.cpp
+	"Hot_Hatch.h"
+
+1590150494 c:\users\user\desktop\tema poo 3\include\hot_hatch.h
+	"Masina.h"
+
+1590163516 source:c:\users\user\desktop\tema poo 3\src\supersport.cpp
+	"Supersport.h"
+
+1590156982 c:\users\user\desktop\tema poo 3\include\supersport.h
+	"Masina.h"
+
+1590164914 source:c:\users\user\desktop\tema poo 3\src\expozitie_supersport.cpp
+	"Expozitie_Supersport.h"
+
+1590164551 c:\users\user\desktop\tema poo 3\include\expozitie_supersport.h
+	"Expozitie.h"
+	"Masina_inexistenta.h"
+
+1590164550 c:\users\user\desktop\tema poo 3\include\masina_inexistenta.h
+	<exception>
+
+1590164550 source:c:\users\user\desktop\tema poo 3\src\masina_inexistenta.cpp
+	"Masina_inexistenta.h"
+
